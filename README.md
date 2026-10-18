@@ -9,6 +9,7 @@ Today I Learned: short notes on things I learn while building, mostly with AI co
 - [Start git](git/251110001_start-git.md)
 - [Private repos can still fill the contribution graph](git/261002001_private-repo-green-squares.md)
 - [Every branch gets its own preview site on Vercel](git/261014001_vercel-preview-deployments.md)
+- [I can leave comments right on a Vercel preview page](git/261017001_comments-on-vercel-previews.md)
 
 ## ai-coding
 - [Cloud sessions can't see my laptop](ai-coding/261014001_cloud-vs-local-sessions.md)
