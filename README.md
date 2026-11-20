@@ -19,6 +19,10 @@ Today I Learned: short notes on things I learn while building, mostly with AI co
 - [I can ask for a canvas and move the UI myself](ai-coding/261015003_edit-ui-on-a-canvas.md)
 - [Cloud sessions write times in UTC](ai-coding/261015004_cloud-sessions-use-utc.md)
 
+## web
+- [Frontend, server and database are separate pieces, and different services run each one](web/261120001_frontend-server-database.md)
+- [Cron is how you tell a computer "do this on a schedule"](web/261120002_what-cron-is.md)
+
 ## Questions I'm exploring
 - Is it OK to ship code an AI wrote if I don't fully understand it?
 - What are good habits for vibe coding (naming and splitting sessions, folders, consistency, fewer repeated tasks)?
