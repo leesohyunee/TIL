@@ -2,11 +2,9 @@
 
 Today I Learned: short notes on things I learn while building, mostly with AI coding tools.
 
-## daily_scrum
-- [251111](daily_scrum/251111.md)
-
 ## git
 - [Start git](git/251110001_start-git.md)
+- [Vim basics: the editor git opens in the terminal](git/251111001_vim-basics.md)
 - [Private repos can still fill the contribution graph](git/261002001_private-repo-green-squares.md)
 - [Every branch gets its own preview site on Vercel](git/261014001_vercel-preview-deployments.md)
 - [I can leave comments right on a Vercel preview page](git/261017001_comments-on-vercel-previews.md)
